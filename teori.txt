@@ -1,0 +1,2 @@
+2. Adjacency matrix adalah matriks yang hanya terdiri dari 1 dan 0.
+Dimana 1 menandakan jika node i menuju node j memiliki edge, dan 0 jika tidak memiliki edge.
